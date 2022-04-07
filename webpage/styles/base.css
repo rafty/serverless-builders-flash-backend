@@ -1,0 +1,27 @@
+body {
+    font-family: "Hiragino Kaku Gothic ProN", Meiryo, sans-serif;
+    width: 800px;
+    margin: 20px auto;
+}
+
+section {
+    /*border-bottom: 0.5px dotted #aaa;*/
+    padding: 20px;
+}
+
+form {
+    margin-left: 20px;
+}
+
+.indent1 {
+    margin-left: 20px;
+}
+
+.indent1 .examples {
+    margin-left: 20px;
+}
+
+textarea.form-control {
+    font-family: Menlo,Monaco,Consolas,"Courier New",monospace;
+    font-size: 9pt;
+}
